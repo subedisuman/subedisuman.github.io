@@ -1,7 +1,6 @@
 ---
 title: "About"
 layout: single
-permalink: /about/
 author_profile: true
 header:
     image: "/images/ccc.jpg"

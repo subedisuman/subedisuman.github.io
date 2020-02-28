@@ -1,10 +1,11 @@
 ---
-title: "Projects"
+published: false
+title: "Blog"
 layout: collection
-permalink: /projects/
+permalink: /blog/
 author_profile: true
 header: 
-    teaser: "/images/ccc.jpg"
+    image: "/images/ccc.jpg"
 ---
 
 

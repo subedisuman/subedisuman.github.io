@@ -1,15 +1,18 @@
 ---
-published: false
+published: true
 title: "Blog"
 layout: collection
 permalink: /blog/
 author_profile: true
 header: 
-    image: "/images/ccc.jpg"
+    image: "/images/dark.jpg"
 ---
 
+coming soon...
 
-{% include group-by-array collection=site.posts field="tags" %}
+
+
+<!-- {% include group-by-array collection=site.posts field="tags" %}
 
 {% for tag in group_names %}
   {% assign posts = group_items[forloop.index0] %}

@@ -1,12 +1,11 @@
 ---
+published: false
 title: "About"
-layout: single
+layout: posts
+permalink: /about/
 author_profile: true
 header:
-    image: "/images/ccc.jpg"
+    image: "/images/light.jpg"
 ---
 
 I am an Aerospace Engineering currently in Germany.
-
-
-

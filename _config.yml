@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "Suman Subedi"
-  avatar           : "/images/cbiopic.jpg" # path of avatar image, e.g. "/images/bio-photo.jpg"
+  avatar           : "/images/cbiopic_opt.jpg" # path of avatar image, e.g. "/images/bio-photo.jpg"
   bio              : "*Aerospace Engineer*"
   location         : "Munich, Germany"
   email            : 

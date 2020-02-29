@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "About"
-    url: /index.html/
+    url: /
   - title: "Blog"
     url: /blog/  
   # - title: "Portfolio"

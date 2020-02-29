@@ -5,7 +5,7 @@ layout: collection
 permalink: /blog/
 author_profile: true
 header: 
-    image: "/images/dark.jpg"
+    image: "/images/dark_opt.jpg"
 ---
 
 coming soon...

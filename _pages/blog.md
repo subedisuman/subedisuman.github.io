@@ -5,7 +5,7 @@ layout: collection
 permalink: /blog/
 author_profile: true
 header: 
-    image: "/images/dark_opt.jpg"
+  overlay_color: "#333"
 ---
 
 coming soon...

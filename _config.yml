@@ -308,15 +308,16 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: # true
+      comments: true
       share: true
       related: true
-      tags: false
+      tags: true
 
   # _pages
   - scope:
       path: ""
       type: pages
+      date: true
     values:
       layout: single
       author_profile: true

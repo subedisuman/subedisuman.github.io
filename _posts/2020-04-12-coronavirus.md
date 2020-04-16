@@ -9,7 +9,7 @@ tags: [Opinion]
 # categories: [blog, travel]
 header:
 #    image: "/images/ccc.jpg"
-excerpt: "My opinion on the coronavirus situation, what impacts it may have in our lives and what adjustments in our way of living can we look upto."
+excerpt: "My opinion on the coronavirus situation, what long lasting impacts it may have in our lives."
 ---
 
 
@@ -41,7 +41,7 @@ The pandemic has divided business into essential business and non-essential busi
 
 Also, there must come a transition between the current state of emergency and a new normal. Then it begs an important question of how and how much of the so-called non-essential businesses can we run safely in the transition period. One obvious aspect to the question is remote work via strong IT infrastructures. Online learning platforms for schools and universities, remote working platforms for as many businesses as possible can not only provide a functional backup in the time of a pandemic but also help save valuable resources be it in transportation or real estate every day. 
 
-Not all workplaces have remote alternatives, however. But there are still possibilities. One can when building a new workplace take stricker priorities and protocols for pandemic response into consideration. Establish infrastructures to plan, track, and communicate measures and contact with potentially infected employees in a workplace. Regular pandemic exercises and drills, etc.. are few ideas among many.
+Not all workplaces have remote alternatives, however. But there are still possibilities. One can when building a new workplace take stricker priorities and protocols for pandemic response into consideration. Establish infrastructures to plan, track, and communicate measures and contacts with potentially infected employees in a workplace. Regular pandemic exercises and drills, etc.. are few ideas among many.
 
 Emerging technologies have a big role to play in future infrastructures. Autonomous vehicles can be a good fit in these circumstances as an autonomously operated ambulance network. Autonomous testing booths and stations can help free up valuable medical human resources from repetitive tasks steering them to more complicated tasks of taking precise care of the severely ill. There are countless possibilities that only imagination and resources can limit.
 

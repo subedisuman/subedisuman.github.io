@@ -4,7 +4,7 @@ toc: true
 toc_label: "On this page"
 toc_sticky: true
 title: "Coronavirus pandemic: What changes are here to stay?"
-date: 2020-04-12
+date: 2020-04-01
 tags: [Opinion]
 # categories: [blog, travel]
 header:
